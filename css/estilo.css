@@ -1,0 +1,19 @@
+/* contenedor*/ 
+.container { 
+    display: flex; 
+    align-items: center; 
+    padding: 20px; 
+} 
+
+/* imagen */ 
+.image { 
+    max-width: 50%; 
+    float: center; 
+} 
+
+/* texto */ 
+.text { 
+    text-align: center; 
+    flex: 2; 
+    padding: 80px; 
+}
